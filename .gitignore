@@ -7,7 +7,7 @@ ai_frontend/.vscode/
 # Python FastAPI
 ai_backend/__pycache__/
 ai_backend/.venv/
-ai_backend/env/
+ai_backend/.env/
 ai_backend/.idea/
 ai_backend/.vscode/
 
