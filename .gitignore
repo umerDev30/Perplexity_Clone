@@ -1,0 +1,16 @@
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
+frontend/.vscode/
+
+# Python FastAPI
+backend/__pycache__/
+backend/.venv/
+backend/env/
+backend/.idea/
+backend/.vscode/
+
+# General
+*.log
+*.DS_Store
